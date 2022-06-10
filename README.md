@@ -12,11 +12,6 @@
    </a>
 </p>
 
-<p align="left">
-    <a href="https://discordapp.com/users/624237228637552650" target="blank_">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-Phuid%231783-081a2a?style=for-the-badge&logo=discord&logoColor=ffffff&logoWidth=20?color=ffffff">
-    </a>
-
 </p>
 
 <div align="left">
