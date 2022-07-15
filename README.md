@@ -1,7 +1,6 @@
 ### Moikka! 👋
 ### 🔭 I’m currently working on Ghetto RP
 ### 🌱 I’m currently learning Lua, HTML
-### 📫 How to reach me: Discord phuidsni#1783 Or Ghetto Roleplay
 
 <p align="left">
     <a href="https://steamcommunity.com/id/Phuiddi/" target="blank_">
