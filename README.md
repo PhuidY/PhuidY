@@ -18,7 +18,7 @@
 
 <p align="left">
     <a href="https://steamcommunity.com/id/phuidxz" target="blank_">
-      <img alt="Discord" src="https://img.shields.io/badge/Steam-Ghetto-081a2a?style=for-the-badge&logo=discord&logoColor=ffffff&logoWidth=25?color=ffffff">
+      <img alt="Discord" src="https://img.shields.io/badge/Discord-Ghetto-081a2a?style=for-the-badge&logo=discord&logoColor=ffffff&logoWidth=25?color=ffffff">
    </a>
 
 </p>
