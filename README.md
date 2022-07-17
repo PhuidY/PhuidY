@@ -22,6 +22,13 @@
 
 </p>
 
+<p align="left">
+    <a href="https://www.twitch.tv/phuidi" target="blank_">
+      <img alt="Discord" src="https://img.shields.io/badge/Twitch-Twitch-081a2a?style=for-the-badge&logo=twitch&logoColor=ffffff&logoWidth=25?color=ffffff">
+   </a>
+
+</p>
+
 <div align="left">
     <img width="150" height="25" src="https://komarev.com/ghpvc/?username=PhuidY&style=for-the-badge&color=081a2a" alt="PhuidY" />
 </div>
