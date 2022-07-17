@@ -15,6 +15,14 @@
 
 </p>
 
+
+<p align="left">
+    <a href="https://www.youtube.com/channel/UCrPd1vJtyw4xoZYVk7Y2kcg" target="blank_">
+      <img alt="Steam" src="https://img.shields.io/badge/Youtube-Phuid-081a2a?style=for-the-badge&logo=youtube&logoColor=ffffff&logoWidth=25?color=ffffff">
+   </a>
+
+</p>
+
 <p align="left">
     <a href="https://www.twitch.tv/phuidi" target="blank_">
       <img alt="Discord" src="https://img.shields.io/badge/Twitch-Phuidi-081a2a?style=for-the-badge&logo=twitch&logoColor=ffffff&logoWidth=25?color=ffffff">
