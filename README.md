@@ -1,6 +1,6 @@
 ### Moikka! 👋
 ### 🔭 I’m currently working on Ghetto RP
-### 🌱 I’m currently learning Lua, HTML
+### 🌱 I’m currently learning Lua, CSS, HTML, JS
 
 <p align="left">
     <a href="https://steamcommunity.com/id/Phuiddi/" target="blank_">
