@@ -1,5 +1,5 @@
 ### Moikka! 👋
-### 🔭 I’m currently working on Ghetto RP
+### 🔭 I’m currently working on Ghetto RP (maybe)
 ### 🌱 I’m currently learning Lua, CSS, HTML, JS
 
 <p align="left">
