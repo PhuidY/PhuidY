@@ -1,5 +1,5 @@
 ### Moikka! 👋
-### 🔭 I’m currently working on Vanilla RP (maybe:D)
+### 🔭 I’m currently working on - (:sad:)
 ### 🌱 I’m currently learning Lua, CSS, HTML, JS
 
 <p align="left">
@@ -26,13 +26,6 @@
 <p align="left">
     <a href="https://www.twitch.tv/phuidi" target="blank_">
       <img alt="Discord" src="https://img.shields.io/badge/Twitch-Phuidi-081a2a?style=for-the-badge&logo=twitch&logoColor=ffffff&logoWidth=25?color=ffffff">
-   </a>
-
-</p>
-
-<p align="left">
-    <a href="https://discord.gg/9f36aJA8AJ" target="blank_">
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-Vanilla-081a2a?style=for-the-badge&logo=discord&logoColor=ffffff&logoWidth=25?color=ffffff">
    </a>
 
 </p>
