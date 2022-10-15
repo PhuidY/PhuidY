@@ -1,5 +1,5 @@
 ### Moikka! 👋
-### 🔭 I’m currently working on - (:sad:)
+### 🔭 I’m currently working on -
 ### 🌱 I’m currently learning Lua, CSS, HTML, JS
 
 <p align="left">
