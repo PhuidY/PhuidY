@@ -1,6 +1,6 @@
 ### Moikka! 👋
 ### 🔭 I’m currently working on -
-### 🌱 I’m currently learning Lua, Python, MySQL CSS, HTML, JS
+### 🌱 I’m currently learning Lua, Python, MySQL, CSS, HTML, JS
 
 <p align="left">
     <a href="https://steamcommunity.com/id/Phuiddi/" target="blank_">
