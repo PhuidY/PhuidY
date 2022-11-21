@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://steamcommunity.com/id/Phuiddi/" target="blank_">
-      <img alt="Steam" src="https://img.shields.io/badge/Steam-431-081a2a?style=for-the-badge&logo=steam&logoColor=ffffff&logoWidth=25?color=ffffff">
+      <img alt="Steam" src="https://img.shields.io/badge/Steam-^Phuid-081a2a?style=for-the-badge&logo=steam&logoColor=ffffff&logoWidth=25?color=ffffff">
    </a>
 </p>
 
