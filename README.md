@@ -1,6 +1,6 @@
-### Moikka! 👋
+### Morrrps! 👋
 ### 🔭 I’m currently working on -
-### 🌱 I’m currently learning Lua, Python, MySQL, CSS, HTML, JS
+### 🌱 I’m currently learning -
 
 <p align="left">
     <a href="https://steamcommunity.com/id/Phuiddi/" target="blank_">
@@ -31,5 +31,5 @@
 </p>
 
 <div align="left">
-    <img width="150" height="25" src="https://komarev.com/ghpvc/?username=PhuidY&style=for-the-badge&color=081a2a" alt="PhuidY" />
+    <img width="150" height="30" src="https://komarev.com/ghpvc/?username=PhuidY&style=for-the-badge&color=081a2a" alt="PhuidY" />
 </div>
