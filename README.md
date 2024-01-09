@@ -1,6 +1,6 @@
 ### 👋
 ### 🔭 I’m currently working on Centti
-### 💫 https://dc.gg/centti
+### 💫 
 
 <p align="left">
     <a href="https://dc.gg/centti" target="blank_">
